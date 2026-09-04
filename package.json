@@ -1,0 +1,13 @@
+{
+  "name": "@sahaibat/identity",
+  "version": "1.0.0",
+  "description": "Shared person-matching primitives for SahAIbat — Indonesian name normalisation, phone canonicalisation, and match tiering. Pure functions, no I/O.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "files": ["src"],
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "test": "npx tsx test/run.ts"
+  }
+}
